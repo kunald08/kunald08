@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Kunal;I+break+things+on+the+web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Kunal;I+play+with+data,+not+feelings+😎)](https://git.io/typing-svg)
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kunald08.kunald08&rstyle=plastic&left_text=Profile%20Views%20:"  />
