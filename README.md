@@ -26,7 +26,7 @@ Just a dev trying to make sense of the chaos, break the internet (on purpose), b
       <a href="https://x.com/kunald08_"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://linkedin.com/kunaldharpure"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
+      <a href="https://linkedin.com/in/kunaldharpure"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
     </td>
     <td align="center" width="60">
       <a href="mailto:dharpurekunal08@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
